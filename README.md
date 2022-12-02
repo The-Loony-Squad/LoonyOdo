@@ -7,4 +7,6 @@ Makes use of Axon Codex Odometry Bundle: https://axon-robotics.com/products/code
 
 CAD: https://cad.onshape.com/documents/d3f71dd21473f1f7cb90f46a/w/c442869b72fff7747c68e8ef/e/66b8575e64647fa3550fca9c
 
+Instructions: https://docs.google.com/presentation/d/1dEYNUNY_9nqMl-R3nphqr-574irAsfmFc599L6unDIM/edit?pli=1#slide=id.p
+
 For feedback/help, contact b1nary#7727, G-Force#5900 on Discord
