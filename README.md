@@ -5,6 +5,8 @@ Visit LoonyOdo Master Assembly Instructions to begin: https://docs.google.com/pr
 
 CAD: https://cad.onshape.com/documents/d3f71dd21473f1f7cb90f46a/w/c442869b72fff7747c68e8ef/e/66b8575e64647fa3550fca9c
 
+More information on our website: https://www.theloonysquad.com/open-source/loonyodo
+
 For feedback/help, contact b1nary#7727, G-Force#5900 on Discord
 
 Update history:
